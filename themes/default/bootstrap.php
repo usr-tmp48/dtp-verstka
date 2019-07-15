@@ -1,6 +1,6 @@
 <?php
 /**
- * Theme bootstrap file. 4
+ * Theme bootstrap file. 48
  */
 Yii::app()->getComponent('bootstrap');
 
